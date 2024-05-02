@@ -32,7 +32,11 @@
   delay-ms = <0>;                   // 10
 };
 
-
+/ {
+  chosen {
+    zmk,matrix_transform = &five_column_transform;
+  };
+};
 
 / {
     combos {
