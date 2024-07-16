@@ -32,10 +32,10 @@ layers:
   - {t: ., h: Sft+ .}
   - {t: /, h: Sft+ /}
   - '2'
-  - {t: SPACE, h: LCTRL}
+  - {t: BSPC, h: LCTRL}
   - LGUI
   - {t: RET, h: LALT}
-  - {t: BSPC, h: LSHIFT}
+  - {t: SPACE, h: LSHIFT}
   - '1'
   '1':
   - '1'
